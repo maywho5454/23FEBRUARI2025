@@ -3581,69 +3581,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="MAGELIFE INFORMATION" tvg-logo="https://i.imgur.com/jksy4Zb.jpeg",lynk.id/magelife
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
 ==========
 HBO GROUP| UTAMA
 ==========
 #EXTINF:-1 group-logo="https://i.imgur.com/0GiICTY.jpeg",HBO
-
-=========
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="HBO",HBO (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/4CcHBED.jpeg" group-title="HBO",HBO Hits (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="HBO",HBO Family (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/vEv1cH4.jpeg" group-title="HBO",HBO Signature (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/H1kvDAR.jpeg" group-title="HBO",Cinemax (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-===EDT [22/11/2024]
 
 ============20/1/2025 HBO NON SUB ============
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg" group-title="HBO",HBO HD NON SUB
@@ -3681,7 +3622,41 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-
+==========23/1/2025  HBO (TAFX)===========
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="HBO",ID: HBO (TAFX)
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="hhttps://i.imgur.com/s9u5yfA.jpeg" group-title="HBO",ID: HBO Family (TAFX)  
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://i.imgur.com/4CcHBED.jpeg" group-title="HBO",ID: HBO Hits (TAFX)
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="https://i.imgur.com/vEv1cH4.jpeg" group-title="HBO",ID: HBO Signature (TAFX)
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/221948
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="https://i.imgur.com/H1kvDAR.jpeg" group-title="HBO",ID: Cinemax (TAFX)
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/197964
+==========23/1/2025  HBO (THD)===========
+http://iptv12k.com:35461/654321/123456/2122
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="[ID] HBO id 8k" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="HBO",HBO (THD)
+http://iptv12k.com:35461/654321/123456/2121
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="[ID] HBO Family id 8k" tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="HBO",HBO FAMILY (THD)
+http://iptv12k.com:35461/654321/123456/2120
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="[ID] HBO Signature id 8k" tvg-logo="https://i.imgur.com/vEv1cH4.jpeg" group-title="HBO",HBO SIGNATURE (THD)
+http://iptv12k.com:35461/654321/123456/2118
+==========23/1/2025  HBO (TVHD)===========
+#EXTINF:-1 tvg-name="[ID] HBO" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="HBO",[ID] HBO (TVHD)
+http://iptv12k.com:35461/654321/123456/1748
+#EXTINF:-1 tvg-name="[ID] HBO Family" tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="HBO",[ID] HBO Family (TVHD)
+http://iptv12k.com:35461/654321/123456/1746
+==========23/1/2025  HBO (TVHD2)===========
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD MOVIE" tvg-logo="https://i.imgur.com/XU2Ms72.jpeg" group-title="HBO",HBO HD (TVHD2)
+http://iptv12k.com:35461/654321/123456/1892
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family MOVIE" tvg-logo="https://i.imgur.com/s9u5yfA.jpeg" group-title="HBO",HBO Family (TVHD2)
+http://iptv12k.com:35461/654321/123456/1890
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits MOVIE" tvg-logo="https://i.imgur.com/4CcHBED.jpeg" group-title="HBO",HBO Hits (TVHD2)
+http://iptv12k.com:35461/654321/123456/1888
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my MOVIE" tvg-logo="https://i.imgur.com/vEv1cH4.jpeg" group-title="HBO",HBO Signature my (TVHD2)
+http://iptv12k.com:35461/654321/123456/1886
+#EXTINF:-1 tvg-name="Cinemax HD MOVIE" tvg-logo="https://i.imgur.com/H1kvDAR.jpeg" group-title="HBO",Cinemax HD (TVHD2)
+http://iptv12k.com:35461/654321/123456/1882
 ====EDT 2
 
 ==========
@@ -3950,62 +3925,41 @@ FILM
 ==========
 #EXTINF:-1 group-logo="https://i.imgur.com/kSNGK5D.jpeg",FILM
 
-=======20/1/2025 FILM========
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",HBO (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/B0vkFlm.jpeg" group-title="FILM",HBO Hits (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",HBO Family (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="FILM",HBO Signature (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/Nxcpfaj.jpeg"" group-title="FILM",Cinemax (T)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+==========23/1/2025  HBO (TAFX)===========
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",ID: HBO (TAFX)
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",ID: HBO Family (TAFX)  
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://i.imgur.com/B0vkFlm.jpeg" group-title="FILM",ID: HBO Hits (TAFX)
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="FILM",ID: HBO Signature (TAFX)
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/221948
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="https://i.imgur.com/Nxcpfaj.jpeg" group-title="FILM",ID: Cinemax (TAFX)
+http://HBO.xyz:8080/test_acct/ohbo1veifa4AhD/197964
+==========23/1/2025  HBO (THD)===========
+http://iptv12k.com:35461/654321/123456/2122
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="[ID] HBO id 8k" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",HBO (THD)
+http://iptv12k.com:35461/654321/123456/2121
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="[ID] HBO Family id 8k" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",HBO FAMILY (THD)
+http://iptv12k.com:35461/654321/123456/2120
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="[ID] HBO Signature id 8k" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="FILM",HBO SIGNATURE (THD)
+http://iptv12k.com:35461/654321/123456/2118
+==========23/1/2025  HBO (TVHD)===========
+#EXTINF:-1 tvg-name="[ID] HBO" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",[ID] HBO (TVHD)
+http://iptv12k.com:35461/654321/123456/1748
+#EXTINF:-1 tvg-name="[ID] HBO Family" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",[ID] HBO Family (TVHD)
+http://iptv12k.com:35461/654321/123456/1746
+==========23/1/2025  HBO (TVHD2)===========
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD MOVIE" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",HBO HD (TVHD2)
+http://iptv12k.com:35461/654321/123456/1892
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family MOVIE" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",HBO Family (TVHD2)
+http://iptv12k.com:35461/654321/123456/1890
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits MOVIE" tvg-logo="https://i.imgur.com/B0vkFlm.jpeg" group-title="FILM",HBO Hits (TVHD2)
+http://iptv12k.com:35461/654321/123456/1888
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my MOVIE" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="FILM",HBO Signature my (TVHD2)
+http://iptv12k.com:35461/654321/123456/1886
+#EXTINF:-1 tvg-name="Cinemax HD MOVIE" tvg-logo="https://i.imgur.com/Nxcpfaj.jpeg" group-title="FILM",Cinemax HD (TVHD2)
+http://iptv12k.com:35461/654321/123456/1882
 =======20/1/2025 FILM========
 
 
@@ -4346,6 +4300,206 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 
+===========================================KOREAN NON SUB | 23/1/2025 =========================================================
+#EXTINF:-1 group-logo="https://i.imgur.com/e8w10pk.jpeg",KOREA NON SUB
+======================
+======================
+#EXTINF:-1 tvg-name="KR: kbs2 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: kbs2 KR
+http://iptv12k.com:35461/654321/123456/3233
+#EXTINF:-1 tvg-name="KR: sbs KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: sbs KR
+http://iptv12k.com:35461/654321/123456/3232
+#EXTINF:-1 tvg-name="KR: mbc KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: mbc KR
+http://iptv12k.com:35461/654321/123456/3231
+#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: mbn KR
+http://iptv12k.com:35461/654321/123456/3230
+#EXTINF:-1 tvg-name="KR: jtbc KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: jtbc KR
+http://iptv12k.com:35461/654321/123456/3229
+#EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: spotv2 KR
+http://iptv12k.com:35461/654321/123456/3228
+#EXTINF:-1 tvg-name="KR: tvn KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: tvn KR
+http://iptv12k.com:35461/654321/123456/3227
+#EXTINF:-1 tvg-name="KR: CHANNEL A KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: CHANNEL A KR
+http://iptv12k.com:35461/654321/123456/3226
+#EXTINF:-1 tvg-name="KR: INET KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: INET KR
+http://iptv12k.com:35461/654321/123456/3225
+#EXTINF:-1 tvg-name="KR: YTN KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: YTN KR
+http://iptv12k.com:35461/654321/123456/3224
+#EXTINF:-1 tvg-name="KR: OCN KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: OCN KR
+http://iptv12k.com:35461/654321/123456/3223
+#EXTINF:-1 tvg-name="KR: OCN movies KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: OCN movies KR
+http://iptv12k.com:35461/654321/123456/3222
+#EXTINF:-1 tvg-name="KR: 迪士尼JU KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 迪士尼JU KR
+http://iptv12k.com:35461/654321/123456/3221
+#EXTINF:-1 tvg-name="KR: MBC电视剧 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: MBC电视剧 KR
+http://iptv12k.com:35461/654321/123456/3220
+#EXTINF:-1 tvg-name="KR: MBC스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MBC스포츠 KR
+http://iptv12k.com:35461/654321/123456/3219
+#EXTINF:-1 tvg-name="KR: CTS Onstyle KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: CTS Onstyle KR
+http://iptv12k.com:35461/654321/123456/3218
+#EXTINF:-1 tvg-name="KR:  TV조선 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR:  TV조선 KR
+http://iptv12k.com:35461/654321/123456/3217
+#EXTINF:-1 tvg-name="KR: CBS KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: CBS KR
+http://iptv12k.com:35461/654321/123456/3216
+#EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SPOTV KR
+http://iptv12k.com:35461/654321/123456/3215
+#EXTINF:-1 tvg-name="KR: KBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: KBS스포츠 KR
+http://iptv12k.com:35461/654321/123456/3214
+#EXTINF:-1 tvg-name="KR: MNET KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MNET KR
+http://iptv12k.com:35461/654321/123456/3213
+#EXTINF:-1 tvg-name="KR: 바둑TV KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 바둑TV KR
+http://iptv12k.com:35461/654321/123456/3212
+#EXTINF:-1 tvg-name="KR: SBS plus KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SBS plus KR
+http://iptv12k.com:35461/654321/123456/3211
+#EXTINF:-1 tvg-name="KR: OCN thrills KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: OCN thrills KR
+http://iptv12k.com:35461/654321/123456/3210
+#EXTINF:-1 tvg-name="KR: 연합뉴스TV  KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 연합뉴스TV  KR
+http://iptv12k.com:35461/654321/123456/3209
+#EXTINF:-1 tvg-name="KR: 내셔널지오그래 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 내셔널지오그래 KR
+http://iptv12k.com:35461/654321/123456/3208
+#EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: SBS스포츠 KR
+http://iptv12k.com:35461/654321/123456/3207
+#EXTINF:-1 tvg-name="KR: SBS골프 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SBS골프 KR
+http://iptv12k.com:35461/654321/123456/3206
+#EXTINF:-1 tvg-name="KR: JTBC골프 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: JTBC골프 KR
+http://iptv12k.com:35461/654321/123456/3205
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+ 
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+ 
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="MBC" tvg-logo="hhttps://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",MBC
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",JTBC
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
+ 
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",MNet
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",tvN
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",tvN Show
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
+
+===========================================KOREAN NON SUB | 23/1/2025 =========================================================
+===========================================JEPANG NON SUB | 23/1/2025 =========================================================
+#EXTINF:-1 group-logo="https://i.imgur.com/livnmIp.jpeg",JEPANG NON SUB
+
+#EXTINF:-1 tvg-name="JP: 衛星劇場 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 衛星劇場 JP
+http://iptv12k.com:35461/654321/123456/3175
+#EXTINF:-1 tvg-name="JP: 時代劇専門チャンネル JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 時代劇専門チャンネル JP
+http://iptv12k.com:35461/654321/123456/3174
+#EXTINF:-1 tvg-name="JP: 日本映画専門チャンネルHD" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 日本映画専門チャンネルHD
+http://iptv12k.com:35461/654321/123456/3173
+#EXTINF:-1 tvg-name="JP: 日本テレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 日本テレビ JP
+http://iptv12k.com:35461/654321/123456/3172
+#EXTINF:-1 tvg-name="JP: 日テレG JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 日テレG JP
+http://iptv12k.com:35461/654321/123456/3171
+#EXTINF:-1 tvg-name="JP: 関西テレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 関西テレビ JP
+http://iptv12k.com:35461/654321/123456/3170
+#EXTINF:-1 tvg-name="JP: 読売テレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 読売テレビ JP
+http://iptv12k.com:35461/654321/123456/3169
+#EXTINF:-1 tvg-name="JP: 東映チャンネル" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 東映チャンネル
+http://iptv12k.com:35461/654321/123456/3168
+#EXTINF:-1 tvg-name="JP: ホームドラマ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ホームドラマ JP
+http://iptv12k.com:35461/654321/123456/3167
+#EXTINF:-1 tvg-name="JP: フジテレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: フジテレビ JP
+http://iptv12k.com:35461/654321/123456/3166
+#EXTINF:-1 tvg-name="JP: ファミリー劇場 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ファミリー劇場 JP
+http://iptv12k.com:35461/654321/123456/3165
+#EXTINF:-1 tvg-name="JP: テレビ東京 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: テレビ東京 JP
+http://iptv12k.com:35461/654321/123456/3164
+#EXTINF:-1 tvg-name="JP: テレビ大阪 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: テレビ大阪 JP
+http://iptv12k.com:35461/654321/123456/3163
+#EXTINF:-1 tvg-name="JP: テレビ朝日 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: テレビ朝日 JP
+http://iptv12k.com:35461/654321/123456/3162
+#EXTINF:-1 tvg-name="JP: ディズニーチャンネル JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ディズニーチャンネル JP
+http://iptv12k.com:35461/654321/123456/3161
+#EXTINF:-1 tvg-name="JP: ディズニージュニア JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ディズニージュニア JP
+http://iptv12k.com:35461/654321/123456/3160
+#EXTINF:-1 tvg-name="JP: スターチャンネル 3 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: スターチャンネル 3 JP
+http://iptv12k.com:35461/654321/123456/3159
+#EXTINF:-1 tvg-name="JP: スターチャンネル 2 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: スターチャンネル 2 JP
+http://iptv12k.com:35461/654321/123456/3158
+#EXTINF:-1 tvg-name="JP: スターチャンネル 1 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: スターチャンネル 1 JP
+http://iptv12k.com:35461/654321/123456/3157
+#EXTINF:-1 tvg-name="JP: スカイ A sports JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: スカイ A sports JP
+http://iptv12k.com:35461/654321/123456/3156
+#EXTINF:-1 tvg-name="JP: サンテレビ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: サンテレビ JP
+http://iptv12k.com:35461/654321/123456/3155
+#EXTINF:-1 tvg-name="JP: ゴルフネットワーク JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: ゴルフネットワーク JP
+http://iptv12k.com:35461/654321/123456/3154
+#EXTINF:-1 tvg-name="JP: キッズステーションHD JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: キッズステーションHD JP
+http://iptv12k.com:35461/654321/123456/3153
+#EXTINF:-1 tvg-name="JP: カートゥーンネットワーク JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: カートゥーンネットワーク JP
+http://iptv12k.com:35461/654321/123456/3152
+#EXTINF:-1 tvg-name="JP: アニマルプラネット JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: アニマルプラネット JP
+http://iptv12k.com:35461/654321/123456/3151
+#EXTINF:-1 tvg-name="JP: アニマックス JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: アニマックス JP
+http://iptv12k.com:35461/654321/123456/3150
+#EXTINF:-1 tvg-name="JP: WOWOWライブ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: WOWOWライブ JP
+http://iptv12k.com:35461/654321/123456/3149
+#EXTINF:-1 tvg-name="JP: WOWOWシネマ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: WOWOWシネマ JP
+http://iptv12k.com:35461/654321/123456/3148
+#EXTINF:-1 tvg-name="JP: WOWOWプライム JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: WOWOWプライム JP
+http://iptv12k.com:35461/654321/123456/3147
+#EXTINF:-1 tvg-name="JP: TOKYO MX JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: TOKYO MX JP
+http://iptv12k.com:35461/654321/123456/3146
+#EXTINF:-1 tvg-name="JP: TBSニュース JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: TBSニュース JP
+http://iptv12k.com:35461/654321/123456/3145
+#EXTINF:-1 tvg-name="JP: NHK総合大阪 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: NHK総合大阪 JP
+http://iptv12k.com:35461/654321/123456/3144
+#EXTINF:-1 tvg-name="ＮＨＫ総合東京 JP: NHK総合 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",ＮＨＫ総合東京 JP: NHK総合 JP
+http://iptv12k.com:35461/654321/123456/3143
+#EXTINF:-1 tvg-name="JP: NHKEテレ大阪 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: NHKEテレ大阪 JP
+http://iptv12k.com:35461/654321/123456/3142
+#EXTINF:-1 tvg-name="JP: NHK-Eテレ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: NHK-Eテレ JP
+http://iptv12k.com:35461/654321/123456/3141
+#EXTINF:-1 tvg-name="JP: BSプレミアム JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BSプレミアム JP
+http://iptv12k.com:35461/654321/123456/3140
+#EXTINF:-1 tvg-name="JP: BS1 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS1 JP
+http://iptv12k.com:35461/654321/123456/3139
+#EXTINF:-1 tvg-name="JP: MBS毎日放送 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: MBS毎日放送 JP
+http://iptv12k.com:35461/654321/123456/3138
+#EXTINF:-1 tvg-name="JP: J SPORTS 4 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: J SPORTS 4 JP
+http://iptv12k.com:35461/654321/123456/3137
+#EXTINF:-1 tvg-name="JP: J SPORTS 3 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: J SPORTS 3 JP
+http://iptv12k.com:35461/654321/123456/3136
+#EXTINF:-1 tvg-name="JP: J SPORTS 2 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg group-title="JEPANG NON SUB",JP: J SPORTS 2 JP
+http://iptv12k.com:35461/654321/123456/3135
+#EXTINF:-1 tvg-name="JP: J SPORTS 1 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: J SPORTS 1 JP
+http://iptv12k.com:35461/654321/123456/3134
+#EXTINF:-1 tvg-name="JP: IMAGICA BS JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: IMAGICA BS JP
+http://iptv12k.com:35461/654321/123456/3133
+#EXTINF:-1 tvg-name="JP: GREEN JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: GREEN JP
+http://iptv12k.com:35461/654321/123456/3132
+#EXTINF:-1 tvg-name="JP: GAORA JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: GAORA JP
+http://iptv12k.com:35461/654321/123456/3131
+#EXTINF:-1 tvg-name="JP: BS釣りビジョン JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS釣りビジョン JP
+http://iptv12k.com:35461/654321/123456/3130
+#EXTINF:-1 tvg-name="JP: BS日テレ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS日テレ JP
+http://iptv12k.com:35461/654321/123456/3129
+#EXTINF:-1 tvg-name="JP: BS朝日 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS朝日 JP
+http://iptv12k.com:35461/654321/123456/3128
+#EXTINF:-1 tvg-name="JP: BSフジ JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BSフジ JP
+http://iptv12k.com:35461/654321/123456/3127
+#EXTINF:-1 tvg-name="JP: BSジャパン JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BSジャパン JP
+http://iptv12k.com:35461/654321/123456/3126
+#EXTINF:-1 tvg-name="JP: BS-TBS JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: BS-TBS JP
+http://iptv12k.com:35461/654321/123456/3125
+#EXTINF:-1 tvg-name="JP: AT-X HD JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: AT-X HD JP
+http://iptv12k.com:35461/654321/123456/3124
+
+
+
+===========================================JEPANG NON SUB | 23/1/2025 =========================================================
+======================
+======================
 ==========
 KOREA
 ===========
@@ -6267,7 +6421,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a
-#EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-name="NHKWorldJapan.jp" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",NHK World Japan
+#EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-name="NHKWorldJEPANG NON SUB.jp" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",NHK World JEPANG NON SUB
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6536,6 +6690,7 @@ https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Digi Sport 2 Romania" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="UEFA NATIONS LEAGUE",Digi Sport 2 Romania
 https://webhdrunns.mizhls.ru/lb/premium401/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 
 
 #EXTM3U billed-msg="😎23 FEBRUARI 2025 | lynk.id/magelife😎"
